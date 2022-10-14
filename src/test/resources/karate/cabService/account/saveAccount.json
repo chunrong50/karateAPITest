@@ -1,0 +1,58 @@
+{
+  "accountExtId" : "#(accountExtId)",
+  "salesforceId" : "#(salesforceId)",
+  "status" : "#(status)",
+  "accountName" : "italy qe team",
+  "alternativeName" : "italy automobile qe",
+  "billingAddress" : {
+    "street" : "#(billing_street)",
+    "city" : "#(billing_city)",
+    "postalCode" : "#(billing_postalCode)",
+    "country" : "#(billing_country)",
+    "countryCode" : "#(billing_countryCode)"
+  },
+  "shippingAddress" : {
+    "street" : "#(shipping_street)",
+    "city" : "#(shipping_city)",
+    "postalCode" : "#(shipping_postalCode)",
+    "country" : "#(shipping_country)",
+    "countryCode" : "#(shipping_countryCode)"
+  },
+  "vatId" : "IT678432935302384325049",
+  "phone" : "3932415688",
+  "otherPhone" : "3902564534",
+  "callTrackingPhoneNumber" : "",
+  "fax" : "",
+  "portalUser" : {
+    "firstName" : "Mario",
+    "lastName" : "Rossi",
+    "salutation" : "Sig",
+    "email" : "#(email)"
+  },
+  "customAttributes" :[
+    {
+      "key" : "callTrackingEnabled",
+      "value" : "true"
+    },
+    {
+    "key" : "mobileExportEnabled",
+    "value" : "true"
+  },
+    {
+    "key" : "kijijiExportEnabled",
+    "value" : "true"
+  },
+    {
+    "key": "diogeneEnabled",
+    "value": "true"
+  },
+    {
+      "key" : "dekraEnabled",
+      "value" : "true"
+    },
+    {
+      "key" : "concessionarioUfficiale",
+      "value" : "true"
+    }
+  ]
+}

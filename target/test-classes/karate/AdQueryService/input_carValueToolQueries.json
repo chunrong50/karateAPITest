@@ -1,0 +1,13 @@
+{
+    "filters":{
+        "category":["CAR"],
+        "km":{
+            "gte":100,
+            "lte":30000
+        }
+    },
+    "year":{
+        "gte":2000,
+        "lte":2010
+    }
+}
